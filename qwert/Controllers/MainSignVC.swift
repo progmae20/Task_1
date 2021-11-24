@@ -32,7 +32,7 @@ class MainSignVC: UIViewController {
     }
     
     @IBAction func emailTFAction(_ sender: Any) {
-        getUser()
+        checkEmail1()
     }
     
     @IBAction func passwordTFAction(_ sender: Any) {
